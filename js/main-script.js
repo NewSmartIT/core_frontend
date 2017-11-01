@@ -6,8 +6,8 @@ function include(url){
 }
 
 
-include('js/frontend/twitter/jquery.tweet.js'); // Twitter widget */
-include('js/frontend/tinynav.min.js'); // Tiny nav
+include('bower_components/core_frontend/js/twitter/jquery.tweet.js'); // Twitter widget */
+include('bower_components/core_frontend/js/tinynav.min.js'); // Tiny nav
 
 
 
